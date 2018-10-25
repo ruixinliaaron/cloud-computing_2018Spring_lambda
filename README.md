@@ -1,1 +1,2 @@
-# cloud-computing_2018Spring_lambda
+Sample lambda function using Java8.
+.
